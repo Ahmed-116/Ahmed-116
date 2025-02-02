@@ -34,10 +34,10 @@
 
 ### Connect with me:
 <p>
-  <a href="https://fb.com/muhammad.ahmed" target="_blank">
+  <a href="https://www.facebook.com/mahmed.qaiser.3/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/m.ahmed.offical" target="_blank">
+  <a href="https://www.instagram.com/m.ahmed.offical/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
