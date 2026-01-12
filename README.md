@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ahmed</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+# 🚀 Hi 👋, I'm Muhammad Ahmed
+### A passionate software engineering student from Pakistan
 
 <p align="center">
   <img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -16,19 +16,22 @@
 </p>
 
 ### 🔭 I’m currently working on  
-- **Web development**
+- **Web development projects using HTML, CSS, JavaScript, React.js**  
+- **Database-driven desktop applications using C# and MySQL**
 
 ### 🌱 I’m currently learning  
-- **Java, Data Structures & Algorithms (DSA)**
+- **Node.js, SQL, Data Structures & Algorithms (DSA)**  
+- **Android app development using Java**
 
 ### 💬 Ask me about  
-- **Programming Basics, Object-Oriented Programming (OOP)**
+- **Programming Basics, OOP in Java and C#**  
+- **Database management and CRUD operations**
 
 ### 📫 How to reach me  
 - **sheikhmahmed116@gmail.com**
 
 ### ⚡ Fun fact  
-- **I think I am funny 😄**
+- **I like learning multiple technologies at once 😄**
 
 ---
 
@@ -58,6 +61,9 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
 </p>
 
 ---
@@ -74,4 +80,3 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-116" alt="GitHub Streak" />
 </p>
-
