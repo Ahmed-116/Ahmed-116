@@ -1,82 +1,116 @@
 # 🚀 Hi 👋, I'm Muhammad Ahmed
-### A passionate software engineering student from Pakistan
+
+### Full-Stack Web Developer | Software Engineering Student | Aspiring AI Developer
 
 <p align="center">
-  <img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+  <img align="center" alt="coding" width="450" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmed-116&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ahmed-116&margin-w=15" alt="GitHub Trophies">
-  </a>
-</p>
-
-### 🔭 I’m currently working on  
-- **Web development projects using HTML, CSS, JavaScript, React.js**  
-- **Database-driven desktop applications using C# and MySQL**
-
-### 🌱 I’m currently learning  
-- **Node.js, SQL, Data Structures & Algorithms (DSA)**  
-- **Android app development using Java**
-
-### 💬 Ask me about  
-- **Programming Basics, OOP in Java and C#**  
-- **Database management and CRUD operations**
-
-### 📫 How to reach me  
-- **sheikhmahmed116@gmail.com**
-
-### ⚡ Fun fact  
-- **I like learning multiple technologies at once 😄**
-
----
-
-### Connect with me:
-<p>
-  <a href="https://www.facebook.com/mahmed.qaiser.3/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/m.ahmed.offical/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Ahmed-116&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-### 🛠 Languages and Tools:
-<p>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-</p>
+## 👨‍💻 About Me
+
+* 🎓 Software Engineering student at **COMSATS University Islamabad**
+* 🌍 Based in Pakistan
+* 💻 Passionate about Full-Stack Web Development
+* 🚀 Currently building real-world projects to strengthen my software engineering skills
+* 🤖 Exploring Artificial Intelligence and modern web technologies
+* 🎯 Goal: Become a Full-Stack Developer and AI Engineer while building a strong freelance portfolio
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-116&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+## 🔭 Currently Working On
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-116&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+* 🛍️ Full-Stack E-Commerce Website (Node.js + Express + MongoDB)
+* ⚙️ REST API Development
+* 📦 Admin Dashboard & Authentication System
+* 🌐 Portfolio & GitHub Projects
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-116" alt="GitHub Streak" />
-</p>
+---
+
+## 🌱 Currently Learning
+
+* React.js
+* Node.js & Express.js
+* MongoDB
+* Git & GitHub
+* Data Structures & Algorithms
+* Artificial Intelligence
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+* Java
+* JavaScript
+* C#
+* C
+* SQL
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* React.js (Learning)
+
+### Backend
+
+* Node.js
+* Express.js
+
+### Databases
+
+* MongoDB Atlas
+* MySQL
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Postman
+
+---
+
+## 📂 Featured Project
+
+### 🛍️ Timelinkspk E-Commerce Website
+
+A full-stack watch store built using:
+
+* Node.js
+* Express.js
+* MongoDB Atlas
+* JWT Authentication
+* HTML
+* CSS
+* JavaScript
+
+Current Features:
+
+* Admin Authentication
+* Watch Management
+* Brand & Category CRUD
+* REST APIs
+* MongoDB Integration
+
+More features including customer accounts, orders, image uploads, and deployment are currently under development.
+
+---
+
+## 📫 Contact Me
+
+📧 **Email:** [sheikhmahmed116@gmail.com](mailto:sheikhmahmed116@gmail.com)
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy turning ideas into real software projects and learning new technologies by building them.
